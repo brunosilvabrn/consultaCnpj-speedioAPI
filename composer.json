@@ -1,0 +1,15 @@
+{
+    "name": "brunosilvabrn/consulta-cnpj",
+    "description": "Consulta cnpj via API com php.",
+    "authors": [
+        {
+            "name": "Bruno Lopes Silva",
+            "email": "brunolopessilva34@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4" : {
+    		"App\\" : "app/"
+    	}
+    }
+}
