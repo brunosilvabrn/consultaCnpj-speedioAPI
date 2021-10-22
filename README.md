@@ -1,5 +1,5 @@
 # Consumindo api de consultar cpnj com PHP.
-Sistema de consulta de cnpj utilizando php consutando a api Api [Speedio](https://apiconsultacnpj.com.br/).
+Sistema de consulta de cnpj utilizando php consultando a api Api [Speedio](https://apiconsultacnpj.com.br/).
 
 ## 💻 Desenvolvimento
 
